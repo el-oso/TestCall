@@ -1,0 +1,7 @@
+name = "TestCall"
+uuid = "dab06e9a-068c-4015-93c2-9a17a29ab780"
+authors = ["Jorge Alberto Vieyra Salas <ursus.est@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
